@@ -1,21 +1,12 @@
 # computer-networks-project
 A Computer Networks project implemented using Cisco Packet Tracer.
 
-## 📌 Overview
+## Overview
 This project demonstrates the design and implementation of a computer
 network using Cisco Packet Tracer. The network includes multiple devices
 and follows standard networking principles.
 
-## Project Structure
-computer-networks-project/
-│
-├── README.md
-├── CN_Project
-│   └── CN_Project.pkt
-└── CN_Report
-    └── CN_Report.pdf   ← screenshots inside this
-
-## 🧠 Concepts Used
+## Concepts Used
 - LAN and WAN
 - IP Addressing
 - Subnetting
@@ -23,21 +14,20 @@ computer-networks-project/
 - Switch & Router Configuration
 - Packet Tracer Simulation
 
-## 🛠 Tools Used
+## Tools Used
 - Cisco Packet Tracer
 - Networking Devices (Routers, Switches, PCs)
 
-## 📂 Project Files
+## Project Files
 - `CN_Project` – Packet Tracer (.pkt) file
-- `CN_Report` – Detailed project report
-- `screenshots/` – Topology and output screenshots
+- `CN_Report` – Detailed project report => Screenshots and informations are included here
 
-## ⚙️ How to Run
+## How to Run
 1. Open Cisco Packet Tracer
 2. Load the `.pkt` file from `CN_Project`
 3. Start simulation and test connectivity
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - VLAN implementation
 - Dynamic routing protocols
 - Network security features
